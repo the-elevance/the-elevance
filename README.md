@@ -1,16 +1,6 @@
 <br><br>
 
 <a href="https://github.com/elevanceit" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
-[**[Hire A Talent](https://tally.so/r/3lldZB)**]
-[**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
-[**[For Companies](https://tally.so/r/3lldZB)**]
-[**[For Developers](https://tally.so/r/3j9Qza)**]
-
-[**[Chat With Us](#chat-with-us)**]
-[**[Work With Us](#work-with-us)**]
-[**[Contribute With Us](#contribute-with-us)**]
-
 <p align="center">
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
@@ -41,7 +31,7 @@ Our strategy starts with our strengths in outstaffing and outsourcing services, 
 Open-Source and Contributor Rewards
 We’re developing this platform as an open-source project and inviting contributors to join us at this early stage. Contributors will gain access to mentorship and rewards based on their level of involvement. Up to 50 contributors will have exclusive access to guided mentorship and structured rewards for their work on the platform.
 
-If you're interested in being part of a platform that sets a new standard for freelance tech hiring, let’s chat![https://elevanceit.com](https://elevanceit.com).
+If you're interested in being part of a platform that sets a new standard for freelance tech hiring, let’s chat!
 
 ✔️ Freelance | ✔️ Full-Time | ✔️ Part-Time | ✔️ Contract | ✔️ In-House
 
