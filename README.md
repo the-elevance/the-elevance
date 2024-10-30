@@ -1,5 +1,3 @@
-<br><br>
-
 <a href="https://github.com/elevanceit" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 
 
