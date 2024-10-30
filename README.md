@@ -9,7 +9,7 @@
 [**[Find A Job](https://tally.so/r/3j9Qza)**] \_\_\_
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
-[**[For Contributors](#https://tally.so/r/mex21q)**]
+[**[For Contributors](https://tally.so/r/mex21q)**]
 
 
 ---
