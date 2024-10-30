@@ -45,10 +45,6 @@ If you're interested in being part of a platform that sets a new standard for fr
 
 ✔️ Freelance | ✔️ Full-Time | ✔️ Part-Time | ✔️ Contract | ✔️ In-House
 
-## Chat With Us
-
-[**Website**](https://www.linkedin.com/company/elevance-innovation-technology)
-
 ## Work With Us
 
 We offer diverse opportunities for professionals ready to make a difference. Whether you're seeking freelance, full-time, part-time, or contract work, we have options tailored to your skills and aspirations.
@@ -57,64 +53,3 @@ We offer diverse opportunities for professionals ready to make a difference. Whe
 - **For Companies:** Let us help you build a team of top talent ready to tackle complex challenges and deliver exceptional results. [**Contact Us**](https://tally.so/r/3lldZB)
 
 Complete the relevant form, and we will respond within 5 business days.
-
-## Contribute With Us
-
-Join our open-source initiatives, contribute to transformative projects, and grow your skills within a supportive, developer-driven community.
-
-Follow these steps to get started:
-
-1. Follow our organization’s GitHub page.
-2. Await an invitation: We will review your profile and send an invitation to your email shortly.
-3. Set your profile visibility: After joining, navigate to the "People" section on GitHub, locate your profile, and set your visibility to "Public."
-
-We look forward to your contributions and to building impactful solutions together.
-
----
-
-## Website
-
-[https://elevanceit.com](https://elevanceit.com)
-
-### Industry
-
-Software Development
-
-### Company Size
-
-11-50 employees
-
-### Headquarters
-
-Work from Anywhere, Remote
-
-### Type
-
-Public Company
-
-### Founded
-
-2023
-
-### Specialties
-
-- B2B
-- AI
-- WEB3
-- CRYPTO
-- Hiring
-- Interviewing
-- Engineering
-- Recruiting
-- Marketing
-- Matching
-- Sourcing
-- Talent
-- Freelance
-- Hire Developers
-- AI Services
-- WEB3 Services
-- CRYPTO Services
-- Tech Services
-- LLM Trainer Services
-- Machine Learning
