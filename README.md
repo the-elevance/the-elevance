@@ -4,6 +4,15 @@
 </a><br><br>
 
 <a href="https://github.com/elevanceit" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
+[**[Hire A Talent](https://tally.so/r/3lldZB)**]
+[**[Request A Quote](https://tally.so/r/3lldZB)**]
+[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[For Companies](https://tally.so/r/3lldZB)**]
+[**[For Developers](https://tally.so/r/3j9Qza)**]
+
+[**[Chat With Us](#chat-with-us)**]
+[**[Work With Us](#work-with-us)**]
+[**[Contribute With Us](#contribute-with-us)**]
 
 
 ---
